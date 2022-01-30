@@ -1,3 +1,5 @@
 "Hello"
 nice to meet you`
 commit 인덱스의 상태 기록하기
+nice to meet you
+Hellllll:`
